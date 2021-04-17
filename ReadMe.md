@@ -1,3 +1,5 @@
+This service is exposed on Port : 9100
+
 for docker setup
 This code is currently using inbuilt mongo here  is docker config
 
